@@ -6,7 +6,7 @@ import { SolanaProvider } from "@/components/solana/SolanaProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Farm Game",
+  title: "Ranch",
   description: "A simple farming game on Solana",
 };
 
